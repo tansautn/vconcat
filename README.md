@@ -42,10 +42,11 @@ The **ADVANCED** version was created to address some of the limitations of the L
 ## Features  
 - Auto-download and configure FFmpeg.  
 - TAB completion support for filenames.  
+- DragNDrop support for filenames.
 - Preserve video quality through stream copying.  
 - Cross-platform compatibility (Windows).  
 - Minimal dependencies.  
-
+<img src="./assets/drag-drop-demo.gif" alt="DragNDrop Demo" />
 ## TODO
 - [ ] Add Explorer context menu for quick access
 - [ ] Mutil-selection DROP-DRAG support

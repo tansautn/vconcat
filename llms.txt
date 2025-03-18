@@ -1,0 +1,16 @@
+# V-CONCAT | Video Concatenation Tools
+
+This project contains a tools for concatenating videos.
+using FFmpeg as the core engine, focusing on how to saving more time while merging videos.
+
+There are two versions: **LITE** and **ADVANCED**.  
+
+## LITE
+Main entry and only one entry point is `concat.cmd`
+Work on windows with help from `ffmpeg`, `powershell`, `cmd`
+
+## ADVANCED
+Main entry and only one entry point is `vconcat.py`
+
+## TODO
+- [ ] Add Explorer context menu for quick access

@@ -46,7 +46,8 @@ The **ADVANCED** version was created to address some of the limitations of the L
 - Preserve video quality through stream copying.  
 - Cross-platform compatibility (Windows).  
 - Minimal dependencies.  
-<img src="./assets/drag-drop-demo.gif" alt="DragNDrop Demo" />
+- ![Demo](https://github.com/user-attachments/assets/ba21b1dd-5456-4c15-9e19-6ef9b94b4d22)
+<img src="https://github.com/user-attachments/assets/ba21b1dd-5456-4c15-9e19-6ef9b94b4d22" alt="DragNDrop Demo" />
 ## TODO
 - [ ] Add Explorer context menu for quick access
 - [ ] Mutil-selection DROP-DRAG support

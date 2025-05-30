@@ -35,7 +35,7 @@ The **ADVANCED** version was created to address some of the limitations of the L
 - Does not support special characters in filenames (e.g., `!`, `'`).  
 
 ## Quick Usage  
-- Download the `concat.cmd` ([LITE version](https://raw.githubusercontent.com/tansautn/vconcat/master/concat.cmd)) or `concat.exe` ([ADVANCED version](./releases/latest)).  
+- Download the `concat.cmd` ([LITE version](https://raw.githubusercontent.com/tansautn/vconcat/master/concat.cmd)) or `concat.exe` ([ADVANCED version](https://github.com/tansautn/vconcat/releases/latest)).  
 - Run the file.  
 - Follow the instructions in the console window.  
 

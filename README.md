@@ -7,7 +7,7 @@
 # :film_strip: VCONCAT Project - Video Concatenation Tool :film_strip:
 
 ## Công cụ gộp nhiều video thành một video
-VCONCAT là project open-source cung cấp giải pháp đơn giản để gộp nhiều video files trở thành một file. Theo cách tiết kiệm thời gian nhất có thể, sử dụng FFmpeg làm core engine.
+VCONCAT là project open-source cung cấp giải pháp đơn giản để gộp nhiều video files trở thành một file. Theo cách **tiết kiệm thời gian nhất** có thể, sử dụng FFmpeg làm core engine.
 
 Built binaries chỉ có sẵn trên Windows. Do vợ tôi chỉ dùng windows :upside_down_face:
 
